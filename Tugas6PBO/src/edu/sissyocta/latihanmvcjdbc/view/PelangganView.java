@@ -21,7 +21,7 @@ import javax.swing.event.ListSelectionListener;
 
 /**
  *
- * @author NIM : 10116553 | Nama : Ferial Rachmadiputra | Kelas : PBO-12
+ * @author NIM : 10116524 | Nama : sissy octavia | Kelas : PBO-12
  */
 public class PelangganView extends javax.swing.JPanel implements PelangganListener, ListSelectionListener {
 
